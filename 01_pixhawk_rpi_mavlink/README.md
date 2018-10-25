@@ -29,7 +29,7 @@ In this research we are going to connect Raspberry Pi as companion computer to P
 
 ## Alternative guide
 
-Alternatively you can skip most of the part by simply by downloading the pre-configured [Custom Raspbian Stretch Lite](https://github.com/hafiz-kamilin/autonomous_pixhawk_rover/releases/tag/v1.0) and set up the Wi-Fi connection.
+Alternatively you can skip most of the part by simply by downloading the pre-configured [Custom Raspbian Stretch Lite](https://github.com/hafiz-kamilin/autonomous_pixhawk_rover/releases/tag/v1.0.1) and set up the Wi-Fi connection.
   - Network name: ardurover-dronekit
   - Username: pi
   - Password: Chobi0520
